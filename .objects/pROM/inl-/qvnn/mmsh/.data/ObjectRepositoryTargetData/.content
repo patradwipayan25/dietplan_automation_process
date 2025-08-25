@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QU8tvEqSjEyaL4pRCMKGmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" DesignTimeRectangle="908, 578, 84, 60" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='number' /&gt;" Guid="8d656976-cb49-4a4c-8bcf-b4ac71b5fa9b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5c76444d0f9ce2e7ee4e4d05793799a5.png" xmlns="">0BCXSmfn0qEKOKrGExoetGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

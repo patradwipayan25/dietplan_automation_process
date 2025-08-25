@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4s_mw5ADGkeQxjGkSUU1DQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="5a7e5934-a935-48b4-a4a5-ae83fbf3b7b1" CvElementArea="552, 721, 89, 63" CvTextArea="645, 742, 81, 22" CvTextArgument="calories" CvType="InputBox" DesignTimeRectangle="556, 722, 598, 60" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aaname=' calories' tag='SPAN' type='' class='input svelte-kvuic8' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="3012321c-506c-43ae-8824-772a2f29136f" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5a7e5934-a935-48b4-a4a5-ae83fbf3b7b1" CvTextArea="405, 742, 139, 23" CvTextArgument="I want to eat" CvType="Text" DesignTimeRectangle="35, 734, 509, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='I want to eat' tag='SPAN' type='' class='label svelte-kvuic8' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='I want to eat' /&gt;" Guid="3681d9b0-0263-406a-8926-fecd9c487cba" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3915f306632a0cc6148a3a43ef396fe1.png" xmlns="">0js5CdoZpHEOcUJvoR-8skQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

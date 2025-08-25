@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k6BsOBXrbkGi06oOpQpEgw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="a0ae6a84-cfba-43e4-8ebe-2175c68fcdfe" CvElementArea="859, 944, 200, 64" CvTextArea="909, 968, 99, 21" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="862, 946, 195, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="242a0c27-1a5a-4106-b108-c47cdee0b454" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="240, 566, 1440, 174" ElementType="List" FullSelectorArgument="&lt;webctrl class='svelte-kvuic8' parentid='create' tag='UL' /&gt;" Guid="b290fbff-7b0b-4de1-8c9b-2ab941e9443d" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0f32925558f229166cea8f16fd9d147b.png" xmlns="">0F3KTut13cESrsQ8p-RrEcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

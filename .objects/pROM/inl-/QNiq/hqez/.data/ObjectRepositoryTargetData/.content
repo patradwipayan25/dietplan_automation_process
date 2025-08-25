@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gu4A99oB7ESybDNqf2z_4Q" Reference="oa7MaDzDmUu_-esJQOub9A/hqezdl_RiEOj2NMpy-ji-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="de4f3af1-5300-4650-9c4d-603e224207dc" CvElementArea="820, 814, 199, 64" CvTextArea="870, 837, 99, 21" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="613, 597, 195, 60" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="15100add-aaa4-4a2c-a1cc-021b7eb2d877" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="de4f3af1-5300-4650-9c4d-603e224207dc" CvTextArea="664, 766, 509, 19" CvTextArgument="Want to set specific macro targets? Create a free account!" CvType="Text" DesignTimeRectangle="458, 544, 505, 26" FuzzySelectorArgument="&lt;webctrl tag='SMALL' type='' class='' aaname='Want to set specific macro targets? ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Want to set specific macro targets? Create a free account!' /&gt;" Guid="5fc37de2-499b-4c4c-90fa-8b40edc6aabb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f4e364487bdf1823b0a8ca276827eb8a.png" xmlns="">0heYWB7udGUCS6JbTVhI4nw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

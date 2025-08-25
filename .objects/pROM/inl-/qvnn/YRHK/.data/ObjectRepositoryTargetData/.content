@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UYuCjqfvJ0W79i4x30el9g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="f1183c5e-246f-4d71-9d55-118f29012bcd" CvElementArea="126, 64, 1504, 52" CvType="InputBox" DesignTimeRectangle="198, 71, 1389, 42" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='New tab - Microsoft Edge - Person 2' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="1fa481fa-9f41-4eb2-8893-d35b2e1ac260" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='New tab and 1 more page - Person 2 - Microsoft​ Edge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f1183c5e-246f-4d71-9d55-118f29012bcd" CvElementArea="126, 64, 1504, 52" CvType="InputBox" DesignTimeRectangle="126, 64, 1505, 52" ElementType="InputBox" Guid="bf363838-8301-4cae-b1b7-5daccb773a37" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7171275a9c5ee2ce2c04984711fe4984.png" xmlns="">0Ti8w7sjUpU6LDTW-qXHaaQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
